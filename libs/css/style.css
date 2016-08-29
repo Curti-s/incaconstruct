@@ -1,0 +1,62 @@
+
+.navbar-default .navbar-text {
+    float:right;
+    margin-top:2rem;
+}
+
+.navbar-default .form-control {
+    margin-top: .8rem;
+}
+
+
+
+#content {
+    background-image:url(../../img/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top:-20px;
+
+}
+
+#content img {
+    margin:auto;
+    padding:3rem 0 ;
+}
+
+#content .helmet {
+    padding:0;
+}
+
+#content .logo {
+    font-size:4rem;
+    color:#ffffff;
+    font-family:'Lora', serif;
+    letter-spacing:1.5rem;
+    padding: 0;
+    margin-top:-4rem;
+}
+
+#content h1 {
+    text-align: center;
+    color:#ffffff;
+}
+
+#content span {
+    color:#fede09;
+}
+
+#content small {
+    color:#fede09;
+}
+
+#content .contact {
+    color:#ffffff;
+}
+
+
+
+
+
+
+
+
